@@ -37,6 +37,8 @@ stages
    {
     echo "This is Monitoring project run with Splunk tool ................"
    }
+   stage('Monitor resource')
+   { 
    steps
    {
     echo "This is Monitoring resource using garfana tool ................"
