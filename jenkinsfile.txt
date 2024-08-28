@@ -39,10 +39,9 @@ stages
    }
    stage('Monitor resource')
    { 
-   steps
+  steps
    {
     echo "This is Monitoring resource using garfana tool ................"
    }
   }
-}
 }
