@@ -44,4 +44,6 @@ stages
     echo "This is Monitoring resource using garfana tool ................"
    }
   }
+ }
+}
 }
